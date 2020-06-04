@@ -1,0 +1,246 @@
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.payback:before {
+   content: url(https://www.jochen-schweizer.de/on/demandware.static/Sites-JSShop-Site/-/default/dw615db7c9/images/icons/payback_logo.svg);
+    padding-right: 3px;
+    width: 20px;
+    height: 20px;
+}
+
+.mega-menu-bg {
+  background-color: #fff;
+}
+.grey-bg {
+  background-color: #F8F8F8;
+}
+
+.chat:before {
+   content: url(https://media.mydays.com/de/upload/de/js_chat_icon.svg);
+    padding-right: 3px;
+    width: 17px;
+    height: 17px;
+    opacity: 0.5;
+}
+.phone:before {
+   content: url(https://media.mydays.com/de/upload/de/js_phone_icon.svg);
+    padding-right: 3px;
+    width: 15px;
+    height: 15px;
+    opacity: 0.5;
+}
+
+.form-inline .form-control {
+  width: 100%;
+  height: 40px;
+}
+
+form {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.l-max-700 {
+   max-width: 700px;
+}
+
+
+.nav-link {
+  padding: 0.5rem 0.4rem;
+}
+form button {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #007aa5;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    height: 40px;
+    padding: 0;
+    right: 0;
+    text-align: center;
+    width: 45px;
+}
+form button i {
+    width: 1.62em;
+    height: 1.62em;
+    vertical-align: bottom;
+    stroke-width: 0;
+    background-image: url(https://media.mydays.com/de/upload/de/search_icon.svg);
+    position: absolute;
+}
+.redeem {
+    background-color: #FFF;
+    border: 1px solid #007aa5;
+    color: #007aa5;
+    float: left;
+    height: 40px;
+    line-height: 26px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 8px;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+.redeem:hover {
+   background-color: #007aa5;
+    border: 1px solid #007aa5;
+    color: #fff;
+}
+.header__icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8F8F8;
+    border-radius: 4px;
+    margin-left: 15px;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+.header__icon i {
+    width: 20px;
+    height: 20px;
+}
+.header__icon .cart {
+    background-image: url(https://media.mydays.com/de/upload/de/cart_icon.svg);
+}
+.header__icon .wishlist {
+    background-image: url(https://media.mydays.com/de/upload/de/cart_icon.svg);
+}
+ .nav-item .level-0 { 
+  position: relative;
+  color: rgba(0,0,0,.8);
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-stretch: extra-condensed;
+  font-family: "Open Sans Condensed",-apple-system-headline,Arial,Impact,sans-serif;
+}
+.nav-item a:hover {
+  color: #007aa5;
+  text-decoration: none;
+}
+.nav-item a:hover::after {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-image: url(https://www.jochen-schweizer.de/on/demandware.static/Sites-JSShop-Site/-/default/v1577314820282/assets/images/icons/triangle-menu-outlined.svg);
+}
+.top {
+  justify-content: flex-end;
+}
+.top .nav-item a {
+    display: flex;
+    align-items: center;
+    color: #999;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: "Open Sans",-apple-system-body,Arial,Helcetica,sans-serif;
+    text-transform: none;
+    font-weight: 100;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+.menu__list {
+    list-style-type: none;
+    padding: 0;
+    height: 100%;
+    margin: 0;
+}
+
+
+.menu__list-item:last-child {
+    margin-right: 0;
+}
+
+.menu__link {
+    font-family: "Open Sans Condensed",-apple-system-headline,Arial,Impact,sans-serif;
+    color: #3a3e47;
+    font-weight: 600;
+    font-stretch: extra-condensed;
+    display: inline-block;
+    height: 100%;
+    font-size: 17px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    padding: 0 3px;
+}
+
+.menu__link:hover {
+    color: #ffaa3b;
+}
+
+.logo-container {
+    width: 125px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.menu__logo {
+    text-indent: -9999999px;
+    display: inline-block;
+    width: 100%;
+    height: 55px;
+    max-height: 80px;
+    background-image: url(https://s.jochen-schweizer.de/webshop/production/logo/jochen_schweizer_logo.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.menu__search-button {
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    background-image: url(https://media.mydays.com/de/upload/de/search_icon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.menu__search-form {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    padding: 10px;
+    background-color: white;
+}
+
+.menu__search-input {
+    outline: none;
+    border: 1px solid #c8c9ce;
+    font-size: 18px;
+    padding: 5px;
+    font-weight: 300;
+}

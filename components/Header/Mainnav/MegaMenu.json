@@ -1,0 +1,554 @@
+{
+  "mainnav": [
+    {
+      "level0": {
+        "name": "Erlebniskategorien",
+        "mainmenu": "true",
+        "level1": [
+          {
+            "name": "Alle Erlebnisse",
+            "mainmenu": "false",
+            "link": "#"
+          },
+          {
+            "name": "Fliegen & Fallen",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Fallen & Springen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Fliegen mit Motor",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Gleiten & Schweben",
+                "mainmenu": "false"
+              },
+              {
+                "name": "Jets & Weltraum",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Reisen & Kurzurlaub",
+            "mainmenu": "true",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Städtereisen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Romantikurlaub",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Wellnessurlaub",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Aussergewöhnliche Hotels",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Natur- & Aktivurlaub",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Fern- & Abenteuerreisen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Top-Aktivitäten pro Stadt",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Motorpower",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Rennwagen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geländewagen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Traumautos",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Ketten & Schienen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Motorräder",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Quads & Spaßmobile",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Schneefahrzeuge",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Abenteuer & Sport",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Rennwagen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geländewagen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Traumautos",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Ketten & Schienen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Motorräder",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Quads & Spaßmobile",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Schneefahrzeuge",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Essen & Trinken",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Essen gehen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Kochkurse",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Wein, Bier & Spirituosen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Kaffee & Schokolade",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Wellness & Gesundheit",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Verwöhnen & Erholen",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Beauty & Styling",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Fitness & Ernährung",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Körper & Seele",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Kunst, Kultur & Lifestyle",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Sightseeing",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Vor der Kamera",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Kunst & Handwerk",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Musik & Tanz",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Dating, Liebe & Romantik",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Wasser & Wind",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Rafting & Canyoning",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Kanu",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Funsport mit Wasser",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Segeln & Surfen",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Erlebnisse mit Tieren",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Huskies",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Reittiere",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Alle anderen Tiere",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Außergewöhnliche Erlebnistage",
+            "mainmenu": "false",
+            "link": "#"
+          },
+          {
+            "name": "Erlebnisse mit Stars",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Glossar",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    
+    {
+      "level0": {
+        "name": "Geschenke für",
+        "mainmenu": "true",
+        "level1": [
+          {
+            "name": "Geschenke für Paare",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Geschenke für die Eltern",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für die Großeltern",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Geschenke für Männer",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Geschenke für den Freund",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für Freunde",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für Papa",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für den Bruder",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Geschenke für Frauen",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Geschenke beste Freundin",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für die Freundin",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für Mama",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für die Schwester",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für die Schwiegermutter",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Geschenke für Kinder",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Geschenke für Jungs",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für Mädchen",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Geschenke für Senioren",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Geschenke für die Oma",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geschenke für die Großeltern",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Geschenkanlässe",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Weihnachtsgeschenke",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Geburtstagsgeschenke",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Hochzeitsgeschenke",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Valentinstagsgeschenke",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Silvestergeschenke",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Erlebnis-Geschenkboxen",
+            "mainmenu": "false",
+            "link": "#",
+            "level2": [
+              {
+                "name": "Kurzurlaub",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Fun & Action",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Zeit zu zweit",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Wellness & Lifestyle",
+                "mainmenu": "false",
+                "link": "#"
+              },
+              {
+                "name": "Erlebnis-Mix",
+                "mainmenu": "false",
+                "link": "#"
+              }
+            ]
+          },
+          {
+            "name": "Wertgutscheine",
+            "mainmenu": "false",
+            "link":"#"
+          }
+        ]
+      }
+    },
+    {
+      "level0": {
+        "name": "Firmenangebote",
+            "mainmenu": "true",
+        "level1": [
+          {
+            "name": "Geschenke für Mitarbeiter",
+            "mainmenu": "false",
+            "link":"#"
+          },
+          {
+            "name": "Prämien für Ihre Kunden",
+            "mainmenu": "false",
+            "link":"#"
+          },
+          {
+            "name": "Marketingkooperationen",
+            "mainmenu": "false",
+            "link":"#"
+          },
+          {
+            "name": "Jochen Schweizer als Redner",
+            "mainmenu": "false",
+            "link":"#"
+          },
+          {
+            "name": "Firmenveranstaltungen",
+            "mainmenu": "false",
+            "link":"#"
+          },
+          {
+            "name": "Jochen Schweizer Arena",
+            "mainmenu": "false",
+            "link":"#"
+          }
+        ]
+      }
+    },
+    {
+      "level0": {
+        "name": "Weihnachten",
+            "mainmenu": "true",
+            "link":"#"
+      }
+    }
+  ]
+}
